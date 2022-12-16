@@ -1,4 +1,5 @@
 {
+    "$schema": "http://json.schemastore.org/prettierrc",
     "tabWidth": 4,
     "quoteProps": "preserve",
     "semi": true,
@@ -9,5 +10,5 @@
     "jsxSingleQuote": false,
     "bracketSpacing": true,
     "singleQuote": false,
-    "jsxBracketSameLine": false
+    "bracketSameLine": false
 }

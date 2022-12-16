@@ -1,0 +1,21 @@
+{
+    "name": "@feedzai/prettier-config",
+    "version": "1.0.0",
+    "description": "Feedzai's Prettier configuration.",
+    "keywords": [
+        "prettier",
+        "prettier-config"
+    ],
+    "homepage": "https://github.com/feedzai/prettier-config#readme",
+    "bugs": {
+        "url": "https://github.com/feedzai/prettier-config/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/feedzai/prettier-config.git"
+    },
+    "main": "index.json",
+    "peerDependencies": {
+        "prettier": "^2.4.0"
+    }
+}
